@@ -1,2 +1,0 @@
-# thang
-git
